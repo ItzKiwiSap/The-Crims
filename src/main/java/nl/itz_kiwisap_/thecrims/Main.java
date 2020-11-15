@@ -1,4 +1,4 @@
-package nl.itz_kiwisap_.bankrobbery;
+package nl.itz_kiwisap_.thecrims;
 
 import lombok.Getter;
 import org.bukkit.plugin.java.JavaPlugin;
