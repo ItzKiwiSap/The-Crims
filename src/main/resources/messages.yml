@@ -1,0 +1,19 @@
+messages:
+  prefix: '&cTheCrims &e» '
+
+  join:
+    kick-not-ready: '&cThis server is not accessible yet, please try again later!'
+    kick-not-loaded: '&cThere went something wrong while loading your data, please try again later!'
+    join-message: '&c%player% &7joined the game. &8(&b%current_players%&7/&b%max_players%&8)'
+    information:
+    - ''
+    - '          &c&lTheCrims'
+    - ''
+    - '&aInformation: '
+    - '%cooldown_2%'
+    - ''
+    - '     &c&lTheCrims &7- &eCreators'
+    - ''
+    - '&aList of creators'
+  quit:
+    quit-message: '&e%player% &7left the game. &8(&b%current_players%&7/&b%max_players%&8)'

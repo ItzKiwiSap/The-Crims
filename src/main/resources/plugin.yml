@@ -1,0 +1,6 @@
+name: TheCrims
+version: ${project.version}
+author: Itz_KiwiSap_
+main: nl.itz_kiwisap_.thecrims.Main
+description: The Crims minigame created by Itz_KiwiSap_
+depend: [BungeeCordPartyAndFriends]
